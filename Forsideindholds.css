@@ -1,0 +1,8 @@
+.Green {max-height: 500px;}
+body {background-color:rgb(0, 150, 0) ; padding: 10px;margin: auto auto;}
+html {background-color:darkgreen ; padding: 20px;}
+.Blue {max-height: 500px;}
+.bean {max-height: 250px;}
+
+.Flex {display: flex; margin-left: 585px; flex-wrap: wrap;}
+img {padding-right: 50px;}
